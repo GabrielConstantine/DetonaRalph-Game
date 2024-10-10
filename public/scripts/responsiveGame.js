@@ -28,7 +28,7 @@ function responsiveStyles() {
         document.querySelector(".menu h1").style.fontSize = "14px";
         document.querySelector(".menu h2").style.fontSize = "12px";
         document.querySelector(".menu h2").style.paddingLeft = "2px";
-    } else if (screenWidth <= 420) {
+    } else if (screenWidth <= 450) {
         document.querySelector(".menu h1").style.fontSize = "14px";
         document.querySelector(".menu h2").style.fontSize = "12px";
         document.querySelector(".menu h2").style.paddingLeft = "2px";

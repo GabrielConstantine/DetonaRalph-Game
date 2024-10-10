@@ -30,7 +30,7 @@ body {
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
     .menu h1 {
         font-size: 14px;
     }
