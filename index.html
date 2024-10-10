@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Styles -->
+    <link rel="icon" href="./public/img/RalphIcon.png">
+    <link rel="stylesheet" href="./public/style/reset.css">
+    <link rel="stylesheet" href="./public/style/gamePage.css">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <title>Detona Ralph Game</title>
+</head>
+<body>
+    <div class="menu">
+        <audio id="player" loop autoplay>
+            <source src="./public/sounds/MenuGame.mpeg" type="audio/mpeg">
+        </audio>
+        <div class="menu-time">
+            <h1>Tempo Restante:</h1>
+            <h2 id="time-left">90</h2>
+        </div>
+        <div class="menu-score">
+            <h1>Sua Pontuação:</h1>
+            <h2 id="your-score">0</h2>
+        </div>
+        <div class="menu-life">
+            <img src="./public/img/player.png" alt="Jogador">
+            <h2 id="your-life">x3</h2>
+        </div>
+        <button type="button" onclick="startGame(); playSound('GameSound');" id="button-play">
+            <h1 style="text-align: center; font-size: 11px;">Jogar</h1>
+            <img src="./public/img/button-play.png" alt="Jogar">
+        </button>
+    </div>
+
+    <main class="main-game">
+        <div class="grid-game">
+            <div class="panel-game" id="panel-1">
+                <div class="cardGame" id="ralph">
+                    <img src="./public/img/ralph.jpg" alt="Ralph">
+                </div>
+                <div class="cardGame" id="general-hologram">
+                    <img src="./public/img/general-hologram.jpg" alt="General Hologram">
+                </div>
+                <div class="cardGame" id="deanna">
+                    <img src="./public/img/deanna.jpg" alt="Deanna">
+                </div>
+                <div class="cardGame" id="markowski">
+                    <img src="./public/img/markowski.webp" alt="Markowski">
+                </div>
+            </div>
+            
+            <div class="panel-game" id="panel-2">
+                <div class="cardGame" id="vanellope">
+                    <img src="./public/img/vanellope.jpg" alt="Vanellope">
+                </div>
+                <div class="cardGame" id="gene">
+                    <img src="./public/img/gene.jpg" alt="Gene">
+                </div>
+                <div class="cardGame" id="roy">
+                    <img src="./public/img/roy.webp" alt="Roy">                
+                </div>
+                <div class="cardGame" id="tapper">
+                    <img src="./public/img/tapper.webp" alt="Tapper">
+                </div>
+            </div>
+            
+            <div class="panel-game" id="panel-3">
+                <div class="cardGame" id="sgt-calhoun">
+                    <img src="./public/img/sgt-calhoun.jpg" alt="Sargento Calhoun">
+                </div>
+                <div class="cardGame" id="wynnchel-duncan">
+                    <img src="./public/img/wynnchel-duncan.jpg" alt="Wynnchel e Duncan">
+                </div>
+                <div class="cardGame" id="taffyta">
+                    <img src="./public/img/taffyta.webp" alt="Taffyta">
+                </div>
+                <div class="cardGame" id="surge-protector">
+                    <img src="./public/img/surge-protector.jpg" alt="Surge Protector">
+                </div>
+            </div>
+            
+            <div class="panel-game" id="panel-4">
+                <div class="cardGame" id="conserta-felixjr">
+                    <img src="./public/img/conserta-felixjr.jpg" alt="Conserta Felix Jr">
+                </div>
+                <div class="cardGame" id="rei-candy">
+                    <img src="./public/img/rei-candy.jpeg" alt="Rei Candy">
+                </div>
+                <div class="cardGame" id="candlehead">
+                    <img src="./public/img/candlehead.jpeg" alt="Candlehead">
+                </div>
+                <div class="cardGame" id="satine">
+                    <img src="./public/img/satine.webp" alt="Satine">
+                </div>
+            </div>
+            
+        </div>
+    </main>
+
+    <script defer src="./public/scripts/gameEngine.js"></script>
+</body>
+</html>
