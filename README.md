@@ -9,6 +9,7 @@ O Detona Ralph Game é um jogo de reação em que, conforme o tempo passa, a vel
 - **Diversified Game Over (Fim de Jogo Diversificado):** Existem diversos cenários que podem levar ao fim do jogo, e o Detona Ralph Game está preparado para isso. Dependendo da situação, uma mensagem diferente é exibida.
 - **Score (Pontuação):** Os pontos são marcados ao atingir o Ralph, ganhando 1 ponto por clique nele.
 - **Loss of Life (Perda de Life):** O jogador perde vida quando atinge um personagem diferente do Ralph, perdendo 1 Life no processo. Porém, caso ele atinja o personagem Conserta Felix Jr, ele irá perder 1.5 Life.
+- - **Responsiveness (Responsividade):** Suporte responsivo para que o jogo se adapte aos diversos tamanhos de tela, oferecendo uma experiência adaptativa e agradável aos jogadores.
 
 ## Tecnologias Utilizadas
 - HTML5
@@ -22,6 +23,12 @@ O Detona Ralph Game é um jogo de reação em que, conforme o tempo passa, a vel
     <img src="./public/img/Interface-PC.png" alt="Interface do Detona Ralph Game em PC" width="60%">
     <br>
     Interface do Detona Ralph Game em PC
+</p>
+
+<p align="center">
+    <img src="./public/img/Interface-Mobile.png" alt="Interface do Detona Ralph Game em Smartphones" width="60%">
+    <br>
+    Interface do Detona Ralph Game em Smartphones
 </p>
 
 ## Estrutura do Projeto
@@ -49,10 +56,13 @@ DetonaRalph-Game/
 │   │   ├── Tapper.webp
 │   │   ├── Vanellope.jpg
 │   │   ├── wall.png
+│   │   ├── Interface-PC.png
+│   │   ├── Interface-Mobile.png
 │   │   ├── Wallpapper-Window.jpg
 │   │   └── Wynnchel-Duncan.jpg
 │   ├── scripts/
-│   │   └── gameEngine.js
+│   │   ├── gameEngine.js
+│   │   └── responsiveGame.js
 │   ├── sounds/
 │   │   ├── GameSound.mpeg
 │   │   └── MenuGame.mpeg
