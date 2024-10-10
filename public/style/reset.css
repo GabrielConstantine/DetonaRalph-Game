@@ -12,3 +12,43 @@ body {
     width: 100vw;
     background-image: url('../img/wall.png');
 }
+
+@media (max-width: 480px) {
+    .menu {
+        flex-wrap: wrap;
+        padding: 10px;
+        height: 15%;
+    }
+
+    .menu h1 {
+        font-size: 14px;
+    }
+
+    .menu h2 {
+        font-size: 12px;
+        padding-left: 2px;
+    }
+    
+    .menu-time, .menu-score, .menu-life {
+        margin: 5px;
+    }
+
+    .main-game {
+        height: 85%;
+    }
+
+    .grid-game {
+        width: 480px;
+        height: 400px;
+    }
+
+    .panel-game {
+        width: 80px;
+        height: 400px;
+    }
+
+    .cardGame {
+        width: 80px;
+        height: 100px;
+    }
+}

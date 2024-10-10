@@ -2,8 +2,10 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    flex-wrap: wrap;
     height: 12%;
     width: 100%;
+    padding: 10px;
     background-color: #000000;
     border-bottom: 10px solid #dbbf1c;
 }
