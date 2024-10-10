@@ -25,8 +25,9 @@ O Detona Ralph Game é um jogo de reação em que, conforme o tempo passa, a vel
     Interface do Detona Ralph Game em PC
 </p>
 
+
 <p align="center">
-    <img src="./public/img/Interface-Mobile.png" alt="Interface do Detona Ralph Game em Smartphones" width="60%">
+    <img src="./public/img/Interface-Mobile.png" alt="Interface do Detona Ralph Game em Smartphones" width="40%">
     <br>
     Interface do Detona Ralph Game em Smartphones
 </p>
