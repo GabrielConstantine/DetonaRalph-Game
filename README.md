@@ -18,10 +18,12 @@ O Detona Ralph Game é um jogo de reação em que, conforme o tempo passa, a vel
 <figure style="text-align: center;">
     <img src="./public/img/Interface-PC.png" alt="Interface do Detona Ralph Game em PC" width="450px">
     <figcaption>Interface Desktop</figcaption>
+    <br>
 </figure>
 
 <figure style="text-align: center;">
     <img src="./public/img/Interface-Mobile.png" alt="Interface do Detona Ralph Game em Smartphones" width="90px">
+    <br>
     <figcaption>Interface Smartphones</figcaption>
 </figure>
 </div>
@@ -38,81 +40,97 @@ O Detona Ralph Game é um jogo de reação em que, conforme o tempo passa, a vel
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Ralph.jpg" alt="Ralph" width="150px" height="200px">
+    <br>
     <figcaption>Ralph</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Conserta-FelixJr.jpg" alt="Conserta Felix Jr" width="150px" height="200px">
+    <br>
     <figcaption>Conserta Felix Jr</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Vanellope.jpg" alt="Vanellope" width="150px" height="200px">
+    <br>
     <figcaption>Vanellope</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Sgt-Calhoun.jpg" alt="Sargento Calhoun" width="150px" height="200px">
+    <br>
     <figcaption>Sargento Calhoun</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/General-Hologram.jpg" alt="General Hologram" width="150px" height="200px">
+    <br>
     <figcaption>General Hologram</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Taffyta.webp" alt="Taffyta" width="150px" height="200px">
+    <br>
     <figcaption>Taffyta</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Markowski.webp" alt="Markowski" width="150px" height="200px">
+    <br>
     <figcaption>Markowski</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Tapper.webp" alt="Tapper" width="150px" height="200px">
+    <br>
     <figcaption>Tapper</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
+    <br>
     <img src="./public/img/Roy.webp" alt="Roy" width="150px" height="200px">
     <figcaption>Roy</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Wynnchel-Duncan.jpg" alt="Wynnchel e Duncan" width="150px" height="200px">
+    <br>
     <figcaption>Wynnchel e Duncan</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Rei-Candy.jpeg" alt="Rei Candy" width="150px" height="200px">
+    <br>
     <figcaption>Rei Candy</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Candlehead.jpeg" alt="Candlehead" width="150px" height="200px">
+    <br>
     <figcaption>Candlehead</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Deanna.jpg" alt="Deanna" width="150px" height="200px">
+    <br>
     <figcaption>Deanna</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Satine.webp" alt="Satine" width="150px" height="200px">
+    <br>
     <figcaption>Satine</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Gene.jpg" alt="Gene" width="150px" height="200px">
+    <br>
     <figcaption>Gene</figcaption>
 </figure>
 
 <figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
     <img src="./public/img/Surge-Protector.jpg" alt="Surge Protector" width="150px" height="200px">
+    <br>
     <figcaption>Surge Protector</figcaption>
 </figure>
 </div>
