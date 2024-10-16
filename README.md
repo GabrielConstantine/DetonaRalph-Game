@@ -82,32 +82,62 @@ DetonaRalph-Game/
   
 ## Personagens do Jogo Detona Ralph
 
-<p align="center">
-    <img src="./public/img/Ralph.jpg" alt="Ralph" width="100" height="100"><br> Ralph
-    <img src="./public/img/Conserta-FelixJr.jpg" alt="Conserta Felix Jr" width="100" height="100"><br> Conserta Felix Jr
-    <img src="./public/img/Vanellope.jpg" alt="Vanellope" width="100" height="100"><br> Vanellope
+<p align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
+    <span>
+        <img src="./public/img/Ralph.jpg" alt="Ralph" width="100" height="100"><br> Ralph
+    </span>
+    <span>
+        <img src="./public/img/Conserta-FelixJr.jpg" alt="Conserta Felix Jr" width="100" height="100"><br> Conserta Felix Jr
+    </span>
+    <span>
+        <img src="./public/img/Vanellope.jpg" alt="Vanellope" width="100" height="100"><br> Vanellope
+    </span>
 </p>
 
-<p align="center">
-    <img src="./public/img/General-Hologram.jpg" alt="General Hologram" width="100" height="100"><br> General Hologram
-    <img src="./public/img/Markowski.webp" alt="Markowski" width="100" height="100"><br> Markowski
-    <img src="./public/img/Gene.jpg" alt="Gene" width="100" height="100"><br> Gene
+<p align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
+    <span>
+        <img src="./public/img/General-Hologram.jpg" alt="General Hologram" width="100" height="100"><br> General Hologram
+    </span>
+    <span>
+        <img src="./public/img/Markowski.webp" alt="Markowski" width="100" height="100"><br> Markowski
+    </span>
+    <span>
+        <img src="./public/img/Gene.jpg" alt="Gene" width="100" height="100"><br> Gene
+    </span>
 </p>
 
-<p align="center">
-    <img src="./public/img/Roy.webp" alt="Roy" width="100" height="100"><br> Roy
-    <img src="./public/img/Tapper.webp" alt="Tapper" width="100" height="100"><br> Tapper
-    <img src="./public/img/Sgt-Calhoun.jpg" alt="Sargento Calhoun" width="100" height="100"><br> Sargento Calhoun
+<p align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
+    <span>
+        <img src="./public/img/Roy.webp" alt="Roy" width="100" height="100"><br> Roy
+    </span>
+    <span>
+        <img src="./public/img/Tapper.webp" alt="Tapper" width="100" height="100"><br> Tapper
+    </span>
+    <span>
+        <img src="./public/img/Sgt-Calhoun.jpg" alt="Sargento Calhoun" width="100" height="100"><br> Sargento Calhoun
+    </span>
 </p>
 
-<p align="center">
-    <img src="./public/img/Wynnchel-Duncan.jpg" alt="Wynnchel e Duncan" width="100" height="100"><br> Wynnchel e Duncan
-    <img src="./public/img/Taffyta.webp" alt="Taffyta" width="100" height="100"><br> Taffyta
-    <img src="./public/img/Surge-Protector.jpg" alt="Surge Protector" width="100" height="100"><br> Surge Protector
+<p align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
+    <span>
+        <img src="./public/img/Wynnchel-Duncan.jpg" alt="Wynnchel e Duncan" width="100" height="100"><br> Wynnchel e Duncan
+    </span>
+    <span>
+        <img src="./public/img/Taffyta.webp" alt="Taffyta" width="100" height="100"><br> Taffyta
+    </span>
+    <span>
+        <img src="./public/img/Surge-Protector.jpg" alt="Surge Protector" width="100" height="100"><br> Surge Protector
+    </span>
 </p>
 
-<p align="center">
-    <img src="./public/img/Rei-Candy.jpeg" alt="Rei Candy" width="100" height="100"><br> Rei Candy
-    <img src="./public/img/Candlehead.jpeg" alt="Candlehead" width="100" height="100"><br> Candlehead
-    <img src="./public/img/Satine.webp" alt="Satine" width="100" height="100"><br> Satine
+<p align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
+    <span>
+        <img src="./public/img/Rei-Candy.jpeg" alt="Rei Candy" width="100" height="100"><br> Rei Candy
+    </span>
+    <span>
+        <img src="./public/img/Candlehead.jpeg" alt="Candlehead" width="100" height="100"><br> Candlehead
+    </span>
+    <span>
+        <img src="./public/img/Satine.webp" alt="Satine" width="100" height="100"><br> Satine
+    </span>
 </p>
