@@ -14,20 +14,19 @@ O Detona Ralph Game é um jogo de reação em que, conforme o tempo passa, a vel
 
 ## Interface do Jogo em Dispositivos Suportados
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-<figure style="text-align: center;">
+<p align="center">
     <img src="./public/img/Interface-PC.png" alt="Interface do Detona Ralph Game em PC" width="450px">
-    <figcaption>Interface Desktop</figcaption>
     <br>
-</figure>
+    Interface Desktop
+</p>
 
-<figure style="text-align: center;">
+<p align="center">
     <img src="./public/img/Interface-Mobile.png" alt="Interface do Detona Ralph Game em Smartphones" width="90px">
     <br>
-    <figcaption>Interface Smartphones</figcaption>
-</figure>
-</div>
+    Interface Smartphones
+</p>
 
+</div>
 
 ## Como Jogar?
 - Primeiro acesse o site do jogo através do seguinte link: https://gabrielconstantine.github.io/DetonaRalph-Game/
@@ -37,105 +36,71 @@ O Detona Ralph Game é um jogo de reação em que, conforme o tempo passa, a vel
 
 ## Lista de Personagens:
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Ralph.jpg" alt="Ralph" width="150px" height="200px">
-    <br>
-    <figcaption>Ralph</figcaption>
-</figure>
+<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Ralph.jpg" alt="Ralph" width="150px" height="200px"><br> Ralph
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Conserta-FelixJr.jpg" alt="Conserta Felix Jr" width="150px" height="200px">
-    <br>
-    <figcaption>Conserta Felix Jr</figcaption>
-</figure>
+<p align="center" style=":flex: 0 0 25%;">
+    <img src="./public/img/Conserta-FelixJr.jpg" alt="Conserta Felix Jr" width="150px" height="200px"><br> Conserta Felix Jr
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Vanellope.jpg" alt="Vanellope" width="150px" height="200px">
-    <br>
-    <figcaption>Vanellope</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Vanellope.jpg" alt="Vanellope" width="150px" height="200px"><br> Vanellope
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Sgt-Calhoun.jpg" alt="Sargento Calhoun" width="150px" height="200px">
-    <br>
-    <figcaption>Sargento Calhoun</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Sgt-Calhoun.jpg" alt="Sargento Calhoun" width="150px" height="200px"><br> Sargento Calhoun
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/General-Hologram.jpg" alt="General Hologram" width="150px" height="200px">
-    <br>
-    <figcaption>General Hologram</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/General-Hologram.jpg" alt="General Hologram" width="150px" height="200px"><br> General Hologram
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Taffyta.webp" alt="Taffyta" width="150px" height="200px">
-    <br>
-    <figcaption>Taffyta</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Taffyta.webp" alt="Taffyta" width="150px" height="200px"><br> Taffyta
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Markowski.webp" alt="Markowski" width="150px" height="200px">
-    <br>
-    <figcaption>Markowski</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Markowski.webp" alt="Markowski" width="150px" height="200px"><br> Markowski
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Tapper.webp" alt="Tapper" width="150px" height="200px">
-    <br>
-    <figcaption>Tapper</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Tapper.webp" alt="Tapper" width="150px" height="200px"><br> Tapper
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <br>
-    <img src="./public/img/Roy.webp" alt="Roy" width="150px" height="200px">
-    <figcaption>Roy</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Roy.webp" alt="Roy" width="150px" height="200px"><br> Roy
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Wynnchel-Duncan.jpg" alt="Wynnchel e Duncan" width="150px" height="200px">
-    <br>
-    <figcaption>Wynnchel e Duncan</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Wynnchel-Duncan.jpg" alt="Wynnchel e Duncan" width="150px" height="200px"><br> Wynnchel e Duncan
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Rei-Candy.jpeg" alt="Rei Candy" width="150px" height="200px">
-    <br>
-    <figcaption>Rei Candy</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Rei-Candy.jpeg" alt="Rei Candy" width="150px" height="200px"><br> Rei Candy
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Candlehead.jpeg" alt="Candlehead" width="150px" height="200px">
-    <br>
-    <figcaption>Candlehead</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Candlehead.jpeg" alt="Candlehead" width="150px" height="200px"><br> Candlehead
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Deanna.jpg" alt="Deanna" width="150px" height="200px">
-    <br>
-    <figcaption>Deanna</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Deanna.jpg" alt="Deanna" width="150px" height="200px"><br> Deanna
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Satine.webp" alt="Satine" width="150px" height="200px">
-    <br>
-    <figcaption>Satine</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Satine.webp" alt="Satine" width="150px" height="200px"><br> Satine
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Gene.jpg" alt="Gene" width="150px" height="200px">
-    <br>
-    <figcaption>Gene</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Gene.jpg" alt="Gene" width="150px" height="200px"><br> Gene
+</p>
 
-<figure style="flex: 0 1 20%; max-width: 25%; text-align: center; margin: 10px;">
-    <img src="./public/img/Surge-Protector.jpg" alt="Surge Protector" width="150px" height="200px">
-    <br>
-    <figcaption>Surge Protector</figcaption>
-</figure>
+<p align="center" style="flex: 0 0 25%;">
+    <img src="./public/img/Surge-Protector.jpg" alt="Surge Protector" width="150px" height="200px"><br> Surge Protector
+</p>
 </div>
-
-
 
 ## Tecnologias Utilizadas
 - HTML5
