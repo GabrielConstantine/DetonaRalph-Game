@@ -6,7 +6,7 @@ const gameEngine = {
         cards: document.querySelectorAll(".cardGame"),
     },
     values: {
-        gameVelocity: 2000,
+        gameVelocity: 1500,
         result: 0,
         currentTime: 90,
         life: 3,
@@ -50,11 +50,9 @@ function countDown() {
         endGame(); 
     }
 
-    if (gameEngine.values.currentTime <= 30) {
+    if (gameEngine.values.currentTime <= 50) {
         gameEngine.values.gameVelocity = 1000;
-    } else if (gameEngine.values.currentTime <= 60 && gameEngine.values.currentTime > 30) {
-        gameEngine.values.gameVelocity = 1500;
-    }
+    } 
 }
 
 function randomCard() {
