@@ -84,40 +84,30 @@ DetonaRalph-Game/
 
 <p align="center">
     <img src="./public/img/Ralph.jpg" alt="Ralph" width="100" height="100"><br> Ralph
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./public/img/Conserta-FelixJr.jpg" alt="Conserta Felix Jr" width="100" height="100"><br> Conserta Felix Jr
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./public/img/Vanellope.jpg" alt="Vanellope" width="100" height="100"><br> Vanellope
 </p>
 
 <p align="center">
     <img src="./public/img/General-Hologram.jpg" alt="General Hologram" width="100" height="100"><br> General Hologram
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./public/img/Markowski.webp" alt="Markowski" width="100" height="100"><br> Markowski
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./public/img/Gene.jpg" alt="Gene" width="100" height="100"><br> Gene
 </p>
 
 <p align="center">
     <img src="./public/img/Roy.webp" alt="Roy" width="100" height="100"><br> Roy
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./public/img/Tapper.webp" alt="Tapper" width="100" height="100"><br> Tapper
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./public/img/Sgt-Calhoun.jpg" alt="Sargento Calhoun" width="100" height="100"><br> Sargento Calhoun
 </p>
 
 <p align="center">
     <img src="./public/img/Wynnchel-Duncan.jpg" alt="Wynnchel e Duncan" width="100" height="100"><br> Wynnchel e Duncan
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./public/img/Taffyta.webp" alt="Taffyta" width="100" height="100"><br> Taffyta
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./public/img/Surge-Protector.jpg" alt="Surge Protector" width="100" height="100"><br> Surge Protector
 </p>
 
 <p align="center">
     <img src="./public/img/Rei-Candy.jpeg" alt="Rei Candy" width="100" height="100"><br> Rei Candy
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./public/img/Candlehead.jpeg" alt="Candlehead" width="100" height="100"><br> Candlehead
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./public/img/Satine.webp" alt="Satine" width="100" height="100"><br> Satine
 </p>
